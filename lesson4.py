@@ -1,8 +1,8 @@
 print('Введите стороны прямоугольника.')
 print('a=')
-a = int (input())
+a = float (input())
 print('b=')
-b = int (input())
+b = float (input())
 a2 = a
 b2 = b
 s = a*b
